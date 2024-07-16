@@ -1,6 +1,6 @@
 ﻿namespace BlazorAppEduardo.Entities
 {
-    public class RiskCategories
+    public class RiskCategorie
     {
         public int Id { get; set; }
         public RiskLevel England { get; set; }
